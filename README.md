@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed Tarig
-- 👀 I’m interested in ...Telecommunications & Network Engineering
+- 👀 I’m interested in ...Telecommunications & Network Engineering .
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...tarig_66@yahoo.com
