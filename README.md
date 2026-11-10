@@ -4,8 +4,8 @@
 
 - ### 📜 Certifications & Credentials
 *   **Saylor Academy:** Verified Certificate 
-    [![Saylor Verified](https://shields.io)](YOUR_SAYLOR_VERIFICATION_URL_HERE)
-*   **Enterprise Networking:** CCNA / CCNP Enterprise (Cisco Certified Network Professional)
+    [![Saylor Verified](https://shields.io)](https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet)
+*   **freecodecamp:** Developer Certification (Responsive Web Design )
 
 ---
 
