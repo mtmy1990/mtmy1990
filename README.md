@@ -10,6 +10,12 @@
 
 
 
+- ✅ ** Google Digital Marketing & E-commerce Professional Certificate  
+Issued by Google
+
+🔗 PASTE_YOUR_CERTIFICATE_LINK_HERE
+
+
 ---
 
 My professional experience spans technical support and operations management roles in telecommunications and oil field environments, where I specialized in fiber optic splicing, ODF preparation, OTDR and power meter testing, and network maintenance. I have led technical teams and contributed to testing analysis and network troubleshooting efforts, honing my ability to solve complex technical problems and manage network infrastructure effectively.
