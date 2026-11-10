@@ -4,7 +4,7 @@
 
 - ### 📜 Certifications & Credentials
 *   **Saylor Academy:** Verified Certificate 
-    [![Saylor Verified](https://shields.io)](https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet)
+    [![Saylor Verified]((https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet)
 *   **freecodecamp:** Developer Certification (Responsive Web Design )
 
 ---
