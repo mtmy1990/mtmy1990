@@ -10,10 +10,7 @@
 
 
 
-- ✅ ** Google ** -Digital Marketing & E-commerce Professional Certificate - 
-Issued by Google
-
-🔗 PASTE_YOUR_CERTIFICATE_LINK_HERE
+- ✅ **Google Digital Garage** – Fundamentals of Digital Marketing Certification
 
 
 ---
