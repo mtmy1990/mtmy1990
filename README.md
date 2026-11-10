@@ -2,10 +2,12 @@
 - 👀 I’m interested in ...Telecommunications & Network Engineering 🌱 .
 - 📫 How to reach me tarig_66@yahoo.com   nyawach9@gmail.com  💞️.
 
-- ### 📜 Certifications & Credentials
+### 📜 Certifications & Credentials
+
 *   **Saylor Academy:** Verified Certificate 
-    [![Saylor Verified]((https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet)
-*   **freecodecamp:** Developer Certification (Responsive Web Design )
+    [![Saylor Verified](https://shields.io)](https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet)
+*   **freeCodeCamp:** Developer Certification (Responsive Web Design)
+    [![freeCodeCamp Certified](https://shields.io)](https://freecodecamp.org)
 
 ---
 
