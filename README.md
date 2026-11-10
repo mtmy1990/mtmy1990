@@ -10,7 +10,7 @@
 
 
 
-- ✅ ** Google Digital Marketing & E-commerce Professional Certificate  
+- ✅ ** Google ** -Digital Marketing & E-commerce Professional Certificate - 
 Issued by Google
 
 🔗 PASTE_YOUR_CERTIFICATE_LINK_HERE
