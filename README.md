@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Telecommunications & Network Engineering .
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...tarig_66@yahoo.com.
+- 📫 How to reach me tarig_66@yahoo.com   nyawach9@gmail.com  
 
 My professional experience spans technical support and operations management roles in telecommunications and oil field environments, where I specialized in fiber optic splicing, ODF preparation, OTDR and power meter testing, and network maintenance. I have led technical teams and contributed to testing analysis and network troubleshooting efforts, honing my ability to solve complex technical problems and manage network infrastructure effectively.
 
