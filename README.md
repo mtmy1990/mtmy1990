@@ -4,11 +4,10 @@
 
 ## 📜 Certifications & Credentials
 
-- ✅ **Saylor Academy** – Verified Certificate  
-  🔗 https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet
+- ✅ **[Saylor Academy – Verified Certificate](https://certificates.saylor.org/profile/mohammedtarigmohammedyousif/wallet)**
 
-- ✅ **freeCodeCamp** – Responsive Web Design Certification  
-  🔗 https://www.freecodecamp.org
+- ✅ **[freeCodeCamp – Responsive Web Design Certification](https://www.freecodecamp.org/)**
+
 
 
 ---
