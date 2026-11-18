@@ -13,6 +13,8 @@
 - ✅ **Google Digital Garage** – Fundamentals of Digital Marketing Certification
 
 
+- ✅ **[SysDesks Workstation – Verified Sub-certificate](https://sysdesks.com/verify/7d64e733-f22d-4151-b776-827ad568a5c4)**
+
 ---
 
 My professional experience spans technical support and operations management roles in telecommunications and oil field environments, where I specialized in fiber optic splicing, ODF preparation, OTDR and power meter testing, and network maintenance. I have led technical teams and contributed to testing analysis and network troubleshooting efforts, honing my ability to solve complex technical problems and manage network infrastructure effectively.
