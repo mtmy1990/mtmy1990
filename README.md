@@ -13,7 +13,7 @@
 - ✅ **Google Digital Garage** – Fundamentals of Digital Marketing Certification
 
 
-- ✅ **[SysDesks Workstation – Verified Sub-certificate](https://sysdesks.com/verify/7d64e733-f22d-4151-b776-827ad568a5c4)**
+- ✅ **[SysDesks Workstation First Response – Verified Sub-certificate](https://sysdesks.com/verify/7d64e733-f22d-4151-b776-827ad568a5c4)**
 
 ---
 
